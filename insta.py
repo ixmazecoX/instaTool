@@ -141,7 +141,7 @@ def sms_In():
 		else:
 			print('[!] Error ..')
 			exit()
-print(pyfiglet.figlet_format("IG TF"))
+print("pyfiglet.figlet_format("IG TF")")
 print("--------------------------------------")
 print("IG TooLs")
 print("By @TweakPT - @Filza2 ")
